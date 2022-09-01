@@ -1,4 +1,4 @@
-## 🤠 Jitters - Client
+## 🤠 Jitters - Client (pairs with Jitters - API (Laravel PHP))
 
 Getting Started:
 1. `npm install`
