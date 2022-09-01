@@ -2,7 +2,8 @@
 
 Getting Started:
 1. `npm install`
-3. Setup API_URL `http://localhost:8000/api` in `.env`
-    - This should match client's domain
-4. `php artisan migrate --seed`
-5. `php artisan serve`
+2. Get backend code repo from "Jitters - API"
+3. Setup REACT_APP_API_URL `http://localhost:8000/api` in `.env`
+4. `npm run start`
+
+![CleanShot 2022-09-01 at 10 12 22](https://user-images.githubusercontent.com/2490903/187973218-39873a51-5ac4-4dcb-b4d9-36da8340df62.png)
